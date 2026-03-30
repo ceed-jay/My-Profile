@@ -36,7 +36,9 @@
 
 <!-- 🇵🇭 FILIPINO BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0038A8,CE1126,FFFFFF,FCD116&height=150&section=header&text=Filipino%20Junior%20Mid%20Level%20Full%20Stack%20Developer&fontSize=22&fontColor=ffffff&animation=twinkle&fontAlignY=50"/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0038A8&center=true&vCenter=true&width=600&lines=Filipino+Full+Stack+Developer;Junior+-+Mid+Level+Engineer;Building+MedGO+&++CODEXA;Let's+build+something+amazing!" alt="Typing SVG" />
+  </a>
 </p>
 
 ---
