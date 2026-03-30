@@ -64,8 +64,6 @@
 
 ## 🎮 Featured Projects
 
-<p align="center">
-
 <!-- ROW 1 -->
 <a href="https://coffee-shop-web-ceeds-demo.vercel.app/">
   <img src="https://i.imgur.com/c5JWYvt.png" width="45%" />
@@ -112,50 +110,6 @@
 </a>
 
 </p>
-
----
-
-## 🔥 Project Details
-
-### ☕ Coffee Shop Web Online  
-Modern storefront with menu system  
-👉 [LIVE VIEW](https://your-coffee-site.com)
-
-### 🎮 FiveM Server Portal  
-Gaming dashboard + server stats  
-👉 [LIVE VIEW](https://your-fivem-portal.com)
-
-### 🧾 Enterprise POS System  
-Retail sales & inventory platform  
-👉 [LIVE VIEW](https://your-pos-system.com)
-
-### 💼 Recruitment Site  
-Hiring & applicant tracking system  
-👉 [LIVE VIEW](https://your-recruitment-site.com)
-
-### 💍 Wedding Invitation  
-Interactive RSVP event site  
-👉 [LIVE VIEW](https://your-wedding-site.com)
-
-### 🏆 Esports Web Page  
-Team branding + match updates  
-👉 [LIVE VIEW](https://your-esports-site.com)
-
-### 📸 Photography Web Page  
-Portfolio showcase  
-👉 [LIVE VIEW](https://your-photography-site.com)
-
-### 🧱 Freedom Wall  
-Anonymous posting platform  
-👉 [LIVE VIEW](https://your-freedom-wall.com)
-
-### 🛒 Online Shop  
-E-commerce system  
-👉 [LIVE VIEW](https://your-online-shop.com)
-
-### 🎮 FiveM Full Server Development  
-Custom GTA V server (ESX)  
-👉 [LIVE VIEW](https://your-fivem-server.com)
 
 ---
 
