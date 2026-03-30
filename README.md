@@ -27,15 +27,16 @@
 
 
 <!-- BADGES -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0038A8,CE1126,FFFFFF,FCD116&height=150&section=header&text=Filipino%20Junior%20Mid%20Level%20Full%20Stack%20Developer&fontSize=22&fontColor=ffffff&animation=twinkle&fontAlignY=50"/>
+ <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ceed-jay&label=Profile%20Views&color=00F7FF&style=flat" />
+  <img src="https://img.shields.io/github/followers/ceed-jay?label=Followers&style=social" />
 </p>
 
 ---
 
 <!-- 🇵🇭 FILIPINO BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0038A8,CE1126,FFFFFF,FCD116&height=150&section=header&text=🇵🇭%20Filipino%20Junior%20Mid%20Level%20Full%20Stack%20Developer&fontSize=22&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0038A8,CE1126,FFFFFF,FCD116&height=150&section=header&text=Filipino%20Junior%20Mid%20Level%20Full%20Stack%20Developer&fontSize=22&fontColor=ffffff&animation=twinkle&fontAlignY=50"/>
 </p>
 
 ---
