@@ -1,6 +1,8 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007CF0&height=200&section=header&text=Carl%20Justine%20Olavario&fontSize=35&fontColor=ffffff&animation=fadeIn" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=38&pause=1000&color=00F7FF&background=000F1A00&center=true&vCenter=true&width=700&height=100&lines=Carl+Justine+Olavario;%2F%2F+Android+%26+Mobile+Developer;%2F%2F+Full+Stack+Engineer;Tech+Entrepreneur;Building+Solutions+in+🇵🇭" alt="Carl Justine Olavario" />
+  </a>
 </p>
 
 <h2 align="center">👋 Hi, I'm Carl Justine Olavario</h2>
