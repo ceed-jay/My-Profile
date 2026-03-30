@@ -75,8 +75,8 @@
 <p align="center">
 
 <!-- ROW 1 -->
-<a href="https://your-coffee-site.com">
-  <img src="https://via.placeholder.com/400x200/0d1117/00F7FF?text=Coffee+Shop+Web" width="45%" />
+<a href="https://coffee-shop-web-ceeds-demo.vercel.app/">
+  <img src="https://i.imgur.com/c5JWYvt.png" width="45%" />
 </a>
 <a href="https://your-fivem-portal.com">
   <img src="https://via.placeholder.com/400x200/0d1117/00F7FF?text=FiveM+Portal" width="45%" />
