@@ -41,7 +41,7 @@
 ---
 
 # 👨‍💼 Founder & Chief Executive Officer of PIXODE Philippines
-<p align="center"> <img src="https://i.imgur.com/IX5jUzR.png" width="45%"/> 
+<p align="center"> <img src="https://i.imgur.com/IX5jUzR.png" width="35%"/> 
 </p> <p align="center"> 🚀 Smart & Reliable IT Solutions Company <br/> 🌐 Business Websites | 🧩 Custom Systems | 📱 Mobile Applications <br/> ⚙️ Transforming Businesses Through Technology </p>
 
 ## 💼 Services
