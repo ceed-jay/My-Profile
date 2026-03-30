@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <p align="center">
-  # CARL JUSTINE B. OLAVARIO
+CARL JUSTINE B. OLAVARIO
 </p>
 
 <h3 align="center">💻 Web & Mobile App Developer | 🚀 Tech Enthusiast</h3>
