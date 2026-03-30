@@ -38,8 +38,8 @@
 
 ## 📊 GitHub Stats (Animated)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ceed-jay&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ceed-jay&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -53,14 +53,14 @@
 
 ## 🐍 Contribution Snake Animation
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake.svg" />
+  <img src="https://raw.githubusercontent.com/ceed-jay/ced-jay/output/snake.svg" />
 </p>
 
 ---
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ceed-jay&theme=onedark" />
 </p>
 
 ---
