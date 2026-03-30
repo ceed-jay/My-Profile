@@ -34,19 +34,10 @@
 
 ---
 
-<!-- 🇵🇭 FILIPINO BANNER -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0038A8&center=true&vCenter=true&width=600&lines=Filipino+Full+Stack+Developer;Junior+-+Mid+Level+Engineer;Building+MedGO+&++CODEXA;Let's+build+something+amazing!" alt="Typing SVG" />
-  </a>
-</p>
-
----
-
 ## 🧠 About Me
-- 🔭 Building: **MedGO 🚑**
+- 🔭 Building: **Web Systems and Mobile App**
 - 🌱 Learning: **Blockchain & Scalable Systems**
-- 💬 Ask me: **Web Dev, APIs, C++, VB.NET**
+- 💬 Ask me: **Web Dev, APIs, C++, Mobile App**
 - ⚡ Fun fact: *I turn ☕ coffee into scalable systems*
 
 ---
