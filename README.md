@@ -141,9 +141,12 @@
 ---
 
 ## ⚡ Dev Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
+
+> "The separation of architectural effort from implementation is a very powerful way of getting conceptual integrity on very large projects."
+>
+> — **Fred Brooks**
+
+---
 
 ---
 
