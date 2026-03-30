@@ -56,6 +56,8 @@
 - 🧩 Custom Business Systems
 - 🎮 FiveM Game Server Development
 
+---
+
 ### 🧠 Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,cpp,php,mysql,git,kotlin,linux,supabase,androidstudio,kotlin,firebase" />
