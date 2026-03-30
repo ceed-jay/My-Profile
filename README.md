@@ -76,21 +76,21 @@
 <tr>
 <td width="50%">
 
-### 🚑 MedGO App
-Healthcare Delivery Platform  
-- Real-time tracking  
-- Payments integration  
-- Rider system  
+### ☕ Coffee Shop Web Online
+Dynamic storefront (Brew Haven)  
+- Menu management system  
+- Modern UI/UX  
+- Online ordering ready  
 
 </td>
 
 <td width="50%">
 
-### 📡 Piso WiFi System
-Coin-based Internet Sharing  
-- ESP32 Hotspot  
-- Coin timer system  
-- Admin dashboard  
+### 🎮 FiveM Server Portal
+Gaming platform (KeepCity)  
+- Server stats dashboard  
+- Player system integration  
+- Roleplay server support  
 
 </td>
 </tr>
@@ -98,24 +98,91 @@ Coin-based Internet Sharing
 <tr>
 <td width="50%">
 
-### 🔐 Global Ban System
-FiveM Security API  
-- Cross-server bans  
-- Admin panel  
-- API backend  
+### 🧾 Enterprise POS System
+Retail management solution  
+- Inventory tracking  
+- Sales monitoring  
+- Scalable POS architecture  
 
 </td>
 
 <td width="50%">
 
-### ⚡ Charging Vendo
-Smart Charging Station  
-- QC/PD Fast Charging  
-- Coin system  
-- Battery backup  
+### 💼 Recruitment Site
+Career management platform  
+- Applicant tracking system  
+- Job listings dashboard  
+- Scalable hiring solution  
 
 </td>
 </tr>
+
+<tr>
+<td width="50%">
+
+### 💍 Wedding Invitation
+Interactive event website  
+- Elegant UI design  
+- RSVP system  
+- Mobile-friendly layout  
+
+</td>
+
+<td width="50%">
+
+### 🏆 Esports Web Page
+Gaming team platform (Oragon Esports)  
+- Team showcase  
+- Match updates  
+- Competitive branding  
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 📸 Photography Web Page
+Professional portfolio site  
+- Image gallery showcase  
+- Clean visual layout  
+- Client-ready presentation  
+
+</td>
+
+<td width="50%">
+
+### 🧱 Freedom Wall
+Community posting platform  
+- User-generated content  
+- Real-time updates  
+- Anonymous posting system  
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🛒 Online Shop
+E-commerce platform  
+- Product listings  
+- Shopping cart system  
+- Checkout functionality  
+
+</td>
+
+<td width="50%"></td>
+
+### 🛒 FiveM Full Server Development
+FiveM GTA V Server  
+- ESX Legacy  
+- Omptimized 
+- Custom Scripts
+
+</td>
+
+<td width="50%"></td>
 </table>
 
 ---
