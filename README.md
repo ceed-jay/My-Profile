@@ -150,21 +150,11 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:007CF0&height=25&section=footer&opacity=0.4" alt="tech-line" />
+  <a href="https://facebook.com/your-profile" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://discord.com/users/your-id" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 </p>
 
 <p align="center">
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/your-profile">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://discord.com/users/yourid">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Let's+build+the+future+together!;Open+for+collaborations+🇵🇭" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:007CF0&height=30&section=footer&text=SYSTEM%20READY%20:%20MADE%20IN%20PHILIPPINES%20🇵🇭&fontSize=12&fontColor=ffffff&opacity=0.8" alt="tech-line" />
 </p>
