@@ -8,6 +8,8 @@
 <h1 align="center">👋 Hi, I'm Carl Justine Olavario</h1>
 <h3 align="center">💻 Web & Mobile App Developer | 🚀 Tech Enthusiast</h3>
 
+---
+
 <p align="center">
   💡 Building solutions for local communities | 
   🚀 Scaling Filipino innovation globally  
@@ -58,12 +60,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,cpp,php,mysql,git,kotlin,linux,supabase,androidstudio,kotlin,firebase" />
 </p>
-
-### 🎥 Preview
-<p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="400"/>
-</p>
-
 ---
 
 ## 🎮 Featured Projects
