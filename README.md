@@ -1,9 +1,8 @@
 <!-- HEADER -->
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=00000000&height=120&section=header&text=CARL%20JUSTINE%20OLAVARIO&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=50" />
-</p>
 <h3 align="center">💻 Web & Mobile App Developer | 🚀 Tech Enthusiast</h3>
-
+</p>
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Open%20for%20Collaboration-00F7FF?style=flat-square&logo=github&logoColor=white" /> 
   <img src="https://img.shields.io/badge/Location-Philippines-red?style=flat-square&logo=googlemaps&logoColor=white" />
