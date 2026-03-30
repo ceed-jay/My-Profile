@@ -40,23 +40,15 @@
 
 ---
 
-## 🚑 MedGO Philippines (Flagship Project)
+# 👨‍💼 Founder & Chief Executive Officer of PIXODE Philippines
+<p align="center"> <img src="https://i.imgur.com/foYeBMM.png"/> 
+</p> <p align="center"> 🚀 Smart & Reliable IT Solutions Company <br/> 🌐 Business Websites | 🧩 Custom Systems | 📱 Mobile Applications <br/> ⚙️ Transforming Businesses Through Technology </p>
 
-<p align="center">
-  <img src="https://i.imgur.com/25Ia5Yz.jpeg"/>
-</p>
-
-<p align="center">
-  🚀 Smart healthcare delivery platform for the Philippines  
-  💊 Medicine delivery | 📍 Real-time tracking | 🏥 Pharmacy integration  
-</p>
-
-### 🔥 Features
-- 📦 Real-time tracking  
-- 🛵 Rider system (Tricycle / Motorbike)  
-- 💳 GCash & Card integration  
-- 📍 Location-based services  
-- 📱 Android-first 🤖  
+## 💼 Services
+🌐 Website Development (Business & Non-Business)
+📱 Mobile Application Development
+🧩 Custom Business Systems
+🎮 FiveM Game Server Development
 
 ### 🧠 Tech Stack
 <p align="center">
@@ -78,48 +70,45 @@
 <a href="https://coffee-shop-web-ceeds-demo.vercel.app/">
   <img src="https://i.imgur.com/c5JWYvt.png" width="45%" />
 </a>
-<a href="https://your-fivem-portal.com">
-  <img src="https://via.placeholder.com/400x200/0d1117/00F7FF?text=FiveM+Portal" width="45%" />
+<a href="https://keepcity.vercel.app/">
+  <img src="https://i.imgur.com/7yK8MtC.png" width="45%" />
 </a>
 
 <br><br>
 
 <!-- ROW 2 -->
-<a href="https://your-pos-system.com">
-  <img src="https://via.placeholder.com/400x200/0d1117/00F7FF?text=POS+System" width="45%" />
+<a href="https://pixode-pos-demo.vercel.app/">
+  <img src="https://i.imgur.com/DWut1yG.png" width="45%" />
 </a>
-<a href="https://your-recruitment-site.com">
-  <img src="https://via.placeholder.com/400x200/0d1117/00F7FF?text=Recruitment+Site" width="45%" />
+<a href="https://pixodeapply.vercel.app/">
+  <img src="https://i.imgur.com/YtnHcvm.png" width="45%" />
 </a>
 
 <br><br>
 
 <!-- ROW 3 -->
-<a href="https://your-wedding-site.com">
-  <img src="https://via.placeholder.com/400x200/0d1117/00F7FF?text=Wedding+Invitation" width="45%" />
+<a href="https://vince-casian.vercel.app/">
+  <img src="https://i.imgur.com/81BZJs6.png" width="45%" />
 </a>
-<a href="https://your-esports-site.com">
-  <img src="https://via.placeholder.com/400x200/0d1117/00F7FF?text=Esports+Web" width="45%" />
+<a href="https://oragonesports.vercel.app/">
+  <img src="https://i.imgur.com/e0tTXyw.png" width="45%" />
 </a>
 
 <br><br>
 
 <!-- ROW 4 -->
-<a href="https://your-photography-site.com">
-  <img src="https://via.placeholder.com/400x200/0d1117/00F7FF?text=Photography+Portfolio" width="45%" />
+<a href="https://pitikniceeds.vercel.app/">
+  <img src="https://i.imgur.com/XOY93hc.png" width="45%" />
 </a>
-<a href="https://your-freedom-wall.com">
-  <img src="https://via.placeholder.com/400x200/0d1117/00F7FF?text=Freedom+Wall" width="45%" />
+<a href="https://catcfw.vercel.app/">
+  <img src="https://i.imgur.com/KFrYy9n.png" width="45%" />
 </a>
 
 <br><br>
 
 <!-- ROW 5 -->
 <a href="https://your-online-shop.com">
-  <img src="https://via.placeholder.com/400x200/0d1117/00F7FF?text=Online+Shop" width="45%" />
-</a>
-<a href="https://your-fivem-server.com">
-  <img src="https://via.placeholder.com/400x200/0d1117/00F7FF?text=FiveM+Server+Dev" width="45%" />
+  <img src="https://i.imgur.com/ZeUcrNt.jpeg" width="45%" />
 </a>
 
 </p>
