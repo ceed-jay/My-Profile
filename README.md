@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001F3F,100:00F7FF&height=220&section=header&text=Carl%20Justine%20Olavario&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&height=180&section=header&text=Carl%20Justine%20Olavario&fontSize=42&fontColor=00F7FF&animation=fadeIn&fontAlignY=40" />
 </p>
 
 <p align="center">
