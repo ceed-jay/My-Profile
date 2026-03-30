@@ -52,7 +52,7 @@
 
 ### 🧠 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,cpp,dotnet,php,mysql,git,kotlin,linux,supabase,androidstudio,kotlin,firebase" width="25%" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,cpp,php,mysql,git,kotlin,linux,supabase,androidstudio,kotlin,firebase" width="50" />
 </p>
 
 ### 🎥 Preview
