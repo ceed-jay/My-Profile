@@ -6,7 +6,6 @@
 <h2 align="center">👋 Hi, I'm Carl Justine Olavario</h2>
 <h3 align="center">💻 Web & Mobile App Developer | 🚀 Tech Enthusiast</h3>
 
-## 🇵🇭 Filipino Developer Identity
 <p align="center">
   💡 Building solutions for local communities  
   🚀 Scaling Filipino innovation globally  
