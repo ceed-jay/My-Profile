@@ -5,7 +5,7 @@
   </a>
 </p>
 
-<h2 align="center">👋 Hi, I'm Carl Justine Olavario</h2>
+<h1 align="center">👋 Hi, I'm Carl Justine Olavario</h1>
 <h3 align="center">💻 Web & Mobile App Developer | 🚀 Tech Enthusiast</h3>
 
 <p align="center">
