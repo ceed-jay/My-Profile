@@ -36,7 +36,7 @@
 
 <!-- 🇵🇭 FILIPINO BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,2,24&height=120&section=header&text=🇵🇭%20Proud%20Filipino%20Developer&fontSize=30&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0038A8,CE1126,FFFFFF,FCD116&height=150&section=header&text=🇵🇭%20Filipino%20Junior%20Mid%20Level%20Full%20Stack%20Developer&fontSize=22&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 ---
