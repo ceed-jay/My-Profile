@@ -111,10 +111,6 @@
 <a href="https://github.com/ceed-jay">
   <img src="https://i.imgur.com/ZeUcrNt.jpeg" width="45%" />
 </a>
-
-<br><br>
-
-<!-- ROW 6 -->
 <a href="https://github.com/ceed-jay">
   <img src="https://i.imgur.com/Ea4y0CZ.png" width="45%" />
 </a>
