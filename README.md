@@ -6,16 +6,18 @@
 <h2 align="center">👋 Hi, I'm Carl Justine Olavario</h2>
 <h3 align="center">💻 Web & Mobile App Developer | 🚀 Tech Enthusiast</h3>
 
-<!-- ANDROID + CODING GIF -->
+## 🇵🇭 Filipino Developer Identity
 <p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="120" />
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200"/>
+  💡 Building solutions for local communities  
+  🚀 Scaling Filipino innovation globally  
 </p>
 
-<!-- TYPING -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&size=22&lines=Full+Stack+Developer;Android+Developer+🤖;Building+MedGO;Tech+Entrepreneur;Always+Learning+🚀" />
+  <img src="https://img.shields.io/badge/Made%20in%20Philippines-red?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Mobile%20Developer-Android-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Tech%20Entrepreneur-blueviolet?style=for-the-badge"/>
 </p>
+
 
 <!-- BADGES -->
 <p align="center">
@@ -137,35 +139,9 @@
 
 ---
 
-## 🐍 Contribution Snake
-![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
-
----
-
-## 🏆 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ceed-jay&theme=onedark&no-frame=true" alt="trophies" />
-</p>
-
----
-
 ## ⚡ Dev Quote
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
-
----
-
-## 🇵🇭 Filipino Developer Identity
-<p align="center">
-  💡 Building solutions for local communities  
-  🚀 Scaling Filipino innovation globally  
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Made%20in%20Philippines-red?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Mobile%20Developer-Android-green?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Tech%20Entrepreneur-blueviolet?style=for-the-badge"/>
 </p>
 
 ---
