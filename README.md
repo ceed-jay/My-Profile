@@ -72,118 +72,101 @@
 
 ## 🎮 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
+<p align="center">
 
-### ☕ Coffee Shop Web Online
-Dynamic storefront (Brew Haven)  
-- Menu management system  
-- Modern UI/UX  
-- Online ordering ready  
+<!-- ROW 1 -->
+<a href="https://your-coffee-site.com">
+  <img src="https://via.placeholder.com/400x200/0d1117/00F7FF?text=Coffee+Shop+Web" width="45%" />
+</a>
+<a href="https://your-fivem-portal.com">
+  <img src="https://via.placeholder.com/400x200/0d1117/00F7FF?text=FiveM+Portal" width="45%" />
+</a>
 
-</td>
+<br><br>
 
-<td width="50%">
+<!-- ROW 2 -->
+<a href="https://your-pos-system.com">
+  <img src="https://via.placeholder.com/400x200/0d1117/00F7FF?text=POS+System" width="45%" />
+</a>
+<a href="https://your-recruitment-site.com">
+  <img src="https://via.placeholder.com/400x200/0d1117/00F7FF?text=Recruitment+Site" width="45%" />
+</a>
 
-### 🎮 FiveM Server Portal
-Gaming platform (KeepCity)  
-- Server stats dashboard  
-- Player system integration  
-- Roleplay server support  
+<br><br>
 
-</td>
-</tr>
+<!-- ROW 3 -->
+<a href="https://your-wedding-site.com">
+  <img src="https://via.placeholder.com/400x200/0d1117/00F7FF?text=Wedding+Invitation" width="45%" />
+</a>
+<a href="https://your-esports-site.com">
+  <img src="https://via.placeholder.com/400x200/0d1117/00F7FF?text=Esports+Web" width="45%" />
+</a>
 
-<tr>
-<td width="50%">
+<br><br>
 
-### 🧾 Enterprise POS System
-Retail management solution  
-- Inventory tracking  
-- Sales monitoring  
-- Scalable POS architecture  
+<!-- ROW 4 -->
+<a href="https://your-photography-site.com">
+  <img src="https://via.placeholder.com/400x200/0d1117/00F7FF?text=Photography+Portfolio" width="45%" />
+</a>
+<a href="https://your-freedom-wall.com">
+  <img src="https://via.placeholder.com/400x200/0d1117/00F7FF?text=Freedom+Wall" width="45%" />
+</a>
 
-</td>
+<br><br>
 
-<td width="50%">
+<!-- ROW 5 -->
+<a href="https://your-online-shop.com">
+  <img src="https://via.placeholder.com/400x200/0d1117/00F7FF?text=Online+Shop" width="45%" />
+</a>
+<a href="https://your-fivem-server.com">
+  <img src="https://via.placeholder.com/400x200/0d1117/00F7FF?text=FiveM+Server+Dev" width="45%" />
+</a>
 
-### 💼 Recruitment Site
-Career management platform  
-- Applicant tracking system  
-- Job listings dashboard  
-- Scalable hiring solution  
+</p>
 
-</td>
-</tr>
+---
 
-<tr>
-<td width="50%">
+## 🔥 Project Details
 
-### 💍 Wedding Invitation
-Interactive event website  
-- Elegant UI design  
-- RSVP system  
-- Mobile-friendly layout  
+### ☕ Coffee Shop Web Online  
+Modern storefront with menu system  
+👉 [LIVE VIEW](https://your-coffee-site.com)
 
-</td>
+### 🎮 FiveM Server Portal  
+Gaming dashboard + server stats  
+👉 [LIVE VIEW](https://your-fivem-portal.com)
 
-<td width="50%">
+### 🧾 Enterprise POS System  
+Retail sales & inventory platform  
+👉 [LIVE VIEW](https://your-pos-system.com)
 
-### 🏆 Esports Web Page
-Gaming team platform (Oragon Esports)  
-- Team showcase  
-- Match updates  
-- Competitive branding  
+### 💼 Recruitment Site  
+Hiring & applicant tracking system  
+👉 [LIVE VIEW](https://your-recruitment-site.com)
 
-</td>
-</tr>
+### 💍 Wedding Invitation  
+Interactive RSVP event site  
+👉 [LIVE VIEW](https://your-wedding-site.com)
 
-<tr>
-<td width="50%">
+### 🏆 Esports Web Page  
+Team branding + match updates  
+👉 [LIVE VIEW](https://your-esports-site.com)
 
-### 📸 Photography Web Page
-Professional portfolio site  
-- Image gallery showcase  
-- Clean visual layout  
-- Client-ready presentation  
+### 📸 Photography Web Page  
+Portfolio showcase  
+👉 [LIVE VIEW](https://your-photography-site.com)
 
-</td>
+### 🧱 Freedom Wall  
+Anonymous posting platform  
+👉 [LIVE VIEW](https://your-freedom-wall.com)
 
-<td width="50%">
+### 🛒 Online Shop  
+E-commerce system  
+👉 [LIVE VIEW](https://your-online-shop.com)
 
-### 🧱 Freedom Wall
-Community posting platform  
-- User-generated content  
-- Real-time updates  
-- Anonymous posting system  
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🛒 Online Shop
-E-commerce platform  
-- Product listings  
-- Shopping cart system  
-- Checkout functionality  
-
-</td>
-<tr>
-<td width="50%"></td>
-
-### 🎮 FiveM Full Server Development
-FiveM GTA V Server  
-- ESX Legacy  
-- Omptimized 
-- Custom Scripts
-
-</td>
-<tr>
-<td width="50%"></td>
-</table>
+### 🎮 FiveM Full Server Development  
+Custom GTA V server (ESX)  
+👉 [LIVE VIEW](https://your-fivem-server.com)
 
 ---
 
