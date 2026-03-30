@@ -78,39 +78,47 @@
 <br><br>
 
 <!-- ROW 2 -->
-<a href="https://pixode-pos-demo.vercel.app/">
+<a href="https://github.com/ceed-jay">
   <img src="https://i.imgur.com/DWut1yG.png" width="45%" />
 </a>
-<a href="https://pixodeapply.vercel.app/">
+<a href="https://github.com/ceed-jay">
   <img src="https://i.imgur.com/YtnHcvm.png" width="45%" />
 </a>
 
 <br><br>
 
 <!-- ROW 3 -->
-<a href="https://vince-casian.vercel.app/">
+<a href="https://github.com/ceed-jay">
   <img src="https://i.imgur.com/81BZJs6.png" width="45%" />
 </a>
-<a href="https://oragonesports.vercel.app/">
+<a href="https://github.com/ceed-jay">
   <img src="https://i.imgur.com/e0tTXyw.png" width="45%" />
 </a>
 
 <br><br>
 
 <!-- ROW 4 -->
-<a href="https://pitikniceeds.vercel.app/">
+<a href="https://github.com/ceed-jay">
   <img src="https://i.imgur.com/XOY93hc.png" width="45%" />
 </a>
-<a href="https://catcfw.vercel.app/">
+<a href="https://github.com/ceed-jay">
   <img src="https://i.imgur.com/KFrYy9n.png" width="45%" />
 </a>
 
 <br><br>
 
 <!-- ROW 5 -->
-<a href="https://your-online-shop.com">
+<a href="https://github.com/ceed-jay">
   <img src="https://i.imgur.com/ZeUcrNt.jpeg" width="45%" />
 </a>
+
+<br><br>
+
+<!-- ROW 6 -->
+<a href="https://github.com/ceed-jay">
+  <img src="https://i.imgur.com/Ea4y0CZ.png" width="45%" />
+</a>
+
 
 </p>
 
