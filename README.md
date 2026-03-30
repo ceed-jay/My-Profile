@@ -15,6 +15,13 @@
   <img src="https://img.shields.io/badge/Made%20in%20Philippines-red?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Mobile%20Developer-Android-green?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Tech%20Entrepreneur-blueviolet?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HealthTech-E91E63?style=for-the-badge&logo=healthcare&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Payment%20Gateway-PayMongo-00BAFF?style=for-the-badge&logo=payscale&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GCash%20Integrated-0055D4?style=for-the-badge&logo=googlepay&logoColor=white"/>
 </p>
 
 
