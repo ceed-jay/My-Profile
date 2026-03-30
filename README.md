@@ -1,11 +1,11 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&height=180&section=header&text=Carl%20Justine%20Olavario&fontSize=80&fontColor=FFFFFF&animation=fadeIn&fontAlignY=50" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&height=180&section=header&text=CARL%20JUSTINE%20OLAVARIO&fontSize=80&fontColor=FFFFFF&animation=fadeIn&fontAlignY=50" />
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&background=000F1A00&center=true&vCenter=true&width=700&height=50&lines=%2F%2F+Android+%26+Mobile+Developer;%2F%2F+Full+Stack+Engineer;%2F%2F+Tech+Entrepreneur;Building+Solutions+in+the+Philippines+🇵🇭" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFFFFF&background=000F1A00&center=true&vCenter=true&width=700&height=50&lines=%2F%2F+Android+%26+Mobile+Developer;%2F%2F+Full+Stack+Engineer;%2F%2F+Tech+Entrepreneur;Building+Solutions+in+the+Philippines+🇵🇭" alt="Typing SVG" />
   </a>
 </p>
 
