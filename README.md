@@ -139,14 +139,14 @@
 
 ## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ceed-jay/ceed-jay/output/snake.svg" />
+  ![snake animation](https://github.com/<seu ceed-jay>/<seu ceed-jay>/blob/output/github-contribution-grid-snake2.svg)
 </p>
 
 ---
 
 ## 🏆 Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ceed-jay&theme=onedark&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ceed-jay&theme=onedark&no-frame=true" alt="trophies" />
 </p>
 
 ---
