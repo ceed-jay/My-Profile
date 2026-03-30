@@ -142,7 +142,9 @@
 
 ## ⚡ Dev Quote
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&pause=3000&color=00F7FF&center=true&vCenter=true&width=900&height=50&lines=Engineering+Digital+Infrastructure+for+the+Philippines+🇵🇭;Intersection+of+Clean+Architecture+%26+User+Empathy;Building+Scalable+Solutions+for+the+Modern+Economy" alt="Tech Business Quote" />
+  </a>
 </p>
 
 ---
