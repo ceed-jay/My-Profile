@@ -7,7 +7,7 @@
 <h3 align="center">💻 Web & Mobile App Developer | 🚀 Tech Enthusiast</h3>
 
 <p align="center">
-  💡 Building solutions for local communities  
+  💡 Building solutions for local communities | 
   🚀 Scaling Filipino innovation globally  
 </p>
 
