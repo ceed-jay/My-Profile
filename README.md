@@ -171,17 +171,17 @@ E-commerce platform
 - Checkout functionality  
 
 </td>
-
+<tr>
 <td width="50%"></td>
 
-### 🛒 FiveM Full Server Development
+### 🎮 FiveM Full Server Development
 FiveM GTA V Server  
 - ESX Legacy  
 - Omptimized 
 - Custom Scripts
 
 </td>
-
+<tr>
 <td width="50%"></td>
 </table>
 
