@@ -142,10 +142,10 @@
 
 ## ⚡ Dev Quote
 
-> ##"Scalable systems aren't built in IDEs; they are engineered at the intersection of clean architecture and user empathy. 
->I don't just write code—I build the digital infrastructure for the next Philippine economy."
+> "Scalable systems aren't built in IDEs; they are engineered at the intersection of clean architecture and user empathy. 
+>  I don't just write code—I build the digital infrastructure for the next Philippine economy."
 >
-> **Carl Justine Olavario**
+> -**Carl Justine Olavario**
 
 ---
 
