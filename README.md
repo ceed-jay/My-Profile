@@ -41,14 +41,14 @@
 ---
 
 # 👨‍💼 Founder & Chief Executive Officer of PIXODE Philippines
-<p align="center"> <img src="https://i.imgur.com/foYeBMM.png"/> 
-</p> <p align="center"> 🚀 Smart & Reliable IT Solutions Company <br/> 🌐 Business Websites | 🧩 Custom Systems | 📱 Mobile Applications <br/> ⚙️ Transforming Businesses Through Technology </p>
+<p align="center"> <img src="https://i.imgur.com/IX5jUzR.png"/> 
+</p> <p align="center"> - 🚀 Smart & Reliable IT Solutions Company <br/> - 🌐 Business Websites | - 🧩 Custom Systems | - 📱 Mobile Applications <br/> - ⚙️ Transforming Businesses Through Technology </p>
 
 ## 💼 Services
-🌐 Website Development (Business & Non-Business)
-📱 Mobile Application Development
-🧩 Custom Business Systems
-🎮 FiveM Game Server Development
+- 🌐 Website Development (Business & Non-Business)
+- 📱 Mobile Application Development
+- 🧩 Custom Business Systems
+- 🎮 FiveM Game Server Development
 
 ### 🧠 Tech Stack
 <p align="center">
