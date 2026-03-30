@@ -43,7 +43,7 @@
 ## 🚑 MedGO Philippines (Flagship Project)
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="300"/>
+  <img src="https://i.imgur.com/25Ia5Yz.jpeg"/>
 </p>
 
 <p align="center">
