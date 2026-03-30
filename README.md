@@ -1,9 +1,21 @@
 <!-- HEADER -->
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001F3F,100:00F7FF&height=220&section=header&text=Carl%20Justine%20Olavario&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+</p>
+
+<p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=38&pause=1000&color=00F7FF&background=000F1A00&center=true&vCenter=true&width=700&height=100&lines=Carl+Justine+Olavario;%2F%2F+Android+%26+Mobile+Developer;%2F%2F+Full+Stack+Engineer;Tech+Entrepreneur;Building+Solutions+in+🇵🇭" alt="Carl Justine Olavario" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&background=000F1A00&center=true&vCenter=true&width=700&height=50&lines=%2F%2F+Android+%26+Mobile+Developer;%2F%2F+Full+Stack+Engineer;%2F%2F+Tech+Entrepreneur;Building+Solutions+in+the+Philippines+🇵🇭" alt="Typing SVG" />
   </a>
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Open%20for%20Collaboration-00F7FF?style=flat-square&logo=github&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Location-Philippines-red?style=flat-square&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-Mobile%20%26%20FinTech-blue?style=flat-square&logo=visualstudiocode&logoColor=white" />
+</p>
+
+---
 
 <h1 align="center">👋 Hi, I'm Carl Justine Olavario</h1>
 <h3 align="center">💻 Web & Mobile App Developer | 🚀 Tech Enthusiast</h3>
