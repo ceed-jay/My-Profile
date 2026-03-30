@@ -122,13 +122,6 @@
 
 ---
 
-## ⚙️ Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,cpp,dotnet,php,mysql,git,kotlin,androidstudio,linux" />
-</p>
-
----
-
 ## 📊 GitHub Stats
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=ceed-jay&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
