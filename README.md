@@ -3,11 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=00000000&height=120&section=header&text=CARL%20JUSTINE%20OLAVARIO&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=50" />
 </p>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFFFFF&background=000F1A00&center=true&vCenter=true&width=700&height=50&lines=%2F%2F+Web+Systems+%26+Mobile+Developer;%2F%2F+Juinor+Entry+Level+Full+Stack+Developer;%2F%2F+Tech+Entrepreneur;Building+Solutions+in+the+Philippines+🇵🇭" alt="Typing SVG" />
-  </a>
-</p>
+<h3 align="center">💻 Web & Mobile App Developer | 🚀 Tech Enthusiast</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Open%20for%20Collaboration-00F7FF?style=flat-square&logo=github&logoColor=white" /> 
@@ -16,12 +12,6 @@
 </p>
 
 ---
-
-<h1 align="center">👋 Hi, I'm Carl Justine Olavario</h1>
-<h3 align="center">💻 Web & Mobile App Developer | 🚀 Tech Enthusiast</h3>
-
----
-
 <p align="center">
   💡 Building solutions for local communities | 
   🚀 Scaling Filipino innovation globally  
